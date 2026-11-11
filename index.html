@@ -31,6 +31,8 @@
             background: linear-gradient(135deg, #6366f1, #ec4899); 
             padding: 20px; 
             min-height: 100vh; 
+            box-sizing: border-box;
+            flex-direction: column;
             display: flex; 
             align-items: center; 
             justify-content: center; 
@@ -44,6 +46,17 @@
             max-width: 350px; 
             width: 90%;
             font-size: 20px;
+            margin: auto;
+        }
+
+        .footer-contacto {
+            flex-shrink: 0;
+            padding-top: 12px;
+            color: rgba(255, 255, 255, 0.85);
+            font-size: 11px;
+            line-height: 1.4;
+            text-align: center;
+            text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
         }
         
         .logo { width: 100%; height: auto; border-radius: 15px; margin-bottom: 20px; }
@@ -258,6 +271,10 @@
         
         
     </div>
+
+    <footer class="footer-contacto">
+        Web Card digital-forma parte del grupo GALAN - Cel.: 69240891
+    </footer>
 
 </body>
 </html>
