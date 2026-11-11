@@ -1,0 +1,27 @@
+{
+    "informacion": {
+        "nombre_negocio": "Salon de Belleza Camila & Melani",
+        "titulo_principal": "COMPRAMOS CABELLO",
+        "descripcion": "Compramos Cabello pagamos el mejor precio ",
+        "whatsapp": "76620870",
+        "catalogo": "",
+        "facebook": "",
+        "instagram": "",
+        "tiktok": "",
+        "pagina_web": "",
+        "google_maps": "",
+        "correo": "",
+        "logo": "tarjeta.jpg"
+    },
+    "listas_precios": [],
+    "galeria_trabajos": [],
+    "carrusel_principal": [
+        "uñas3.png",
+        "uñas2.webp",
+        "uñas3.png",
+        "uñas.jpg",
+        "opera_zQ2BEAyKaF.png"
+    ],
+    "botones": [],
+    "plantilla": "Minimalista"
+}
